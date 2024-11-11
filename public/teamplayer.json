@@ -1,0 +1,135 @@
+[
+      {
+      "PlayerName": "Mahmudullah Riyad",
+      "image_url": "https://i.ibb.co.com/wzzZKH2/Mahmudullah-Riyad.jpg",
+      "Country": "Bangladesh",
+      "PlayerType": "All-Rounder",
+      "BatsMane": "Left-handed",
+      "Bowling": "Right-arm medium pace",
+      "Rating": 1,
+      "Price": 200000
+    },
+    {
+      "PlayerName": "Shakib Al Hasan",
+      "image_url": "https://i.ibb.co.com/ysGZN2N/Shakib-Al-Hasan.webp",
+      "Country": "Bangladesh",
+      "PlayerType": "All-Rounder",
+      "BatsMane": "Left-handed",
+      "Bowling": "Left-arm orthodox spin",
+      "Rating": 2,
+      "Price": 200000
+    },
+    {
+      "PlayerName": "Imran Qureshi",
+      "image_url": "https://i.ibb.co.com/qJsgNvv/Imran-Qureshi.jpg",
+      "Country": "Pakistan",
+      "PlayerType": "Bowler",
+      "BatsMane": "Right-handed",
+      "Bowling": "Right-arm fast",
+      "Rating": 3,
+      "Price": 180000
+    },
+    {
+      "PlayerName": "David Thompson",
+      "image_url": "https://i.ibb.co.com/nQ5ZBVR/David-Thompson.jpg",
+      "Country": "Australia",
+      "PlayerType": "Batsman",
+      "BatsMane": "Right-handed",
+      "Bowling": "None",
+      "Rating": 4,
+      "Price": 220000
+    },
+    {
+      "PlayerName": "Rahul Singh",
+      "image_url": "https://i.ibb.co.com/SQx2cZv/Rahul-Singh.jpg",
+      "Country": "India",
+      "PlayerType": "Batsman",
+      "BatsMane": "Left-handed",
+      "Bowling": "Right-arm off-spin",
+      "Rating": 5,
+      "Price": 190000
+    },
+    {
+      "PlayerName": "Carlos Mathews",
+      "image_url": "https://i.ibb.co.com/qNyNWnD/Carlos-Mathews.jpg",
+      "Country": "West Indies",
+      "PlayerType": "All-Rounder",
+      "BatsMane": "Right-handed",
+      "Bowling": "Right-arm medium pace",
+      "Rating": 6,
+      "Price": 210000
+    },
+    {
+      "PlayerName": "Kyle Richardson",
+      "image_url": "https://i.ibb.co.com/QmQWP42/Kyle-Richardson.jpg",
+      "Country": "England",
+      "PlayerType": "Bowler",
+      "BatsMane": "Right-handed",
+      "Bowling": "Right-arm fast",
+      "Rating": 7,
+      "Price": 170000
+    },
+    {
+      "PlayerName": "Mahmudul Hasan",
+      "image_url": "https://i.ibb.co.com/N64RTJ5/Mahmudul-Hasan.jpg",
+      "Country": "Bangladesh",
+      "PlayerType": "Batsman",
+      "BatsMane": "Left-handed",
+      "Bowling": "None",
+      "Rating": 8,
+      "Price": 150000
+    },
+    {
+      "PlayerName": "Ahmed Raza",
+      "image_url": "https://i.ibb.co.com/fYRZJPC/Ahmed-Raza.jpg",
+      "Country": "UAE",
+      "PlayerType": "Bowler",
+      "BatsMane": "Right-handed",
+      "Bowling": "Left-arm orthodox spin",
+      "Rating": 9,
+      "Price": 120000
+    },
+    {
+      "PlayerName": "Jason Morgan",
+      "image_url": "https://i.ibb.co.com/C0rkKvp/Jason-Morgan.jpg",
+      "Country": "South Africa",
+      "PlayerType": "All-Rounder",
+      "BatsMane": "Right-handed",
+      "Bowling": "Right-arm medium pace",
+      "Rating": 10,
+      "Price": 240000
+    },
+    {
+      "PlayerName": "Liam Foster",
+      "image_url": "https://i.ibb.co.com/cg6scjm/Liam-Foster.jpg",
+      "Country": "New Zealand",
+      "PlayerType": "Batsman",
+      "BatsMane": "Left-handed",
+      "Bowling": "Right-arm leg spin",
+      "Rating": 11,
+      "Price": 230000
+    },
+    {
+      "PlayerName": "Liam ",
+      "image_url": "https://i.ibb.co.com/cg6scjm/Liam-Foster.jpg",
+      "Country": "New Zealand",
+      "PlayerType": "Batsman",
+      "BatsMane": "Left-handed",
+      "Bowling": "Right-arm leg spin",
+      "Rating": 12,
+      "Price": 230000
+    }
+  ]
+  
+
+
+
+
+
+
+
+
+
+
+
+
